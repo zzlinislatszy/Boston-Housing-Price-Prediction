@@ -6,9 +6,6 @@ This file demonstrates how to analyze boston
 housing dataset. Students will upload their 
 results to kaggle.com and compete with people
 in class!
-
-You are allowed to use pandas, sklearn, or build the
-model from scratch! Go data scientists!
 """
 
 import pandas as pd
